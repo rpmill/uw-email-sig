@@ -1,0 +1,38 @@
+    <table class="ng-scope" cellspacing="0" cellpadding="0">
+      <tbody>
+        <tr>  <!-- This is the image - displays left of sig -->
+          <td valign="middle" width="140"><a href="https://www.unitedworship.org"><img class="ng-scope" src="https://drive.google.com/uc?id=1ECpLaYlQ_V9SSqCQm0tUuaNQbExdMrda" alt="photograph" width="100" height="100" border="0"> </a></td>
+          <td valign="top">
+            <table cellspacing="0" cellpadding="0">
+              <tbody>
+                <tr>                                          <!-- Name -->
+                  <td valign="top"><strong><span class="ng-binding">Ryan Miller</span></strong>
+                    <br />                          <!-- Title -->
+                    <span class="ng-binding ng-scope">Media Director</span></td>
+                </tr>
+                <tr class="ng-scope">
+                </tr>
+                <tr class="ng-scope">                             <!-- Organization -->
+                  <td valign="top"><span class="ng-binding ng-scope">United Worship</span></td>
+                </tr>
+                <tr class="ng-scope">           <!-- Organization website url -->                            <!-- Display text for url -->
+                  <td valign="middle"><a href="http://www.unitedworship.org/"><span><span class="ng-binding">www.unitedworship.org</span></span></a></td>
+                </tr>
+                <tr class="ng-scope">
+                  <td valign="middle" width="140">
+                                  <!-- Facebook Icon -->
+                      <span class="ng-scope"><a href="https://www.facebook.com/unitedworshipministries"><img src="https://codetwocdn.azureedge.net/images/mail-signatures/generator/photo2/fb.png" alt="facebook icon" width="16" border="0" /></a>&nbsp;</span>
+                                  <!-- Twitter Icon -->
+                      <span class="ng-scope"><a href="https://twitter.com/uwministry"><img src="https://codetwocdn.azureedge.net/images/mail-signatures/generator/photo2/tt.png" alt="twitter icon" width="16" border="0" /></a>&nbsp;</span>
+                                  <!-- Youtube Icon -->
+                      <span class="ng-scope"><a href="https://www.youtube.com/user/CodeTwoChannel"><img src="https://codetwocdn.azureedge.net/images/mail-signatures/generator/photo2/yt.png" alt="youtube icon" width="16" border="0" /></a>&nbsp;</span>
+                                  <!-- Instagram Icon -->                      
+                      <span class="ng-scope"><a href="https://www.instagram.com/unitedworshipministries"><img src="https://codetwocdn.azureedge.net/images/mail-signatures/generator/photo2/it.png" alt="instagram icon" width="16" border="0" /></a>&nbsp;</span>
+                  </td>
+                </tr>
+                </tbody>
+              </table>
+            </td>
+        </tr>
+      </tbody>
+    </table>
