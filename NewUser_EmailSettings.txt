@@ -1,0 +1,6 @@
+Settings
+
+Mailbox View - Layout: Desktop
+Displaying Messages - Display remote inline images: from known senders
+Composing Messages - Compose HTML messages: alwaays
+Composing Mesages - When Replying: start new above
